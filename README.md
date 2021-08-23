@@ -5,8 +5,8 @@
 
  <div>
   <a href="https://github.com/edson-araujo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edson-araujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-araujo&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=edson-araujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img align="center" height="130"src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-araujo&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
@@ -21,7 +21,7 @@
   <img align="center" alt="edson-React" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="edson-HTML" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="edson-CSS" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="edson-Python" height="50width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="edson-Python" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="edson-node" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original.svg">
 </div>
 
