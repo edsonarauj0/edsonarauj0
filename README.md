@@ -1,12 +1,12 @@
 ### Hi! I'm Edson Araújo 👋
 
-- 🔭 I'm currently working with FullStack
-- 🌱 I’m currently learning PHP and Node
+- 🔭 I'm looking for Back-end
+- 🌱 I’m currently learning Java, JavaScript, ReactJS and more
 
  <div align="center">
   <a href="https://github.com/edson-araujo">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=edson-araujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="120em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-araujo&layout=compact&langs_count=7&theme=dark"/>
+  <img align="center" height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-araujo&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
@@ -31,8 +31,8 @@
   
   <div> 
 
-  <a href="https://www.instagram.com/edson.arauj0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:araujoedson.contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/edsonaraujo013/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:edson-456@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edson-ara%C3%BAjo-863382155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   <br>
