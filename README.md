@@ -2,7 +2,7 @@
 
 - 🔭 I'm looking for Back-end
 - 🌱 I’m currently learning Java, JavaScript, ReactJS and more
-
+<br>
  <div align="center">
   <a href="https://github.com/edson-araujo">
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=edson-araujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -24,7 +24,7 @@
   <img align="center" alt="edson-Python" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="edson-node" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original.svg">
 </div>
-
+<br>
   <br>
   
   <br>
