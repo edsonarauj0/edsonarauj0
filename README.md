@@ -42,11 +42,8 @@
  <br>
     
  <br>
-
-##
-
+ ![Snake animation](https://github.com/jeferson-labout/jeferson-labout/blob/output/github-contribution-grid-snake.svg)
  
 </div>
  
- ![Snake animation](https://github.com/jeferson-labout/jeferson-labout/blob/output/github-contribution-grid-snake.svg)
 
