@@ -26,9 +26,13 @@
   <img align="center" alt="edson-java" height="50 width="40" src="https://icongr.am/devicon/java-original.svg?size=112&color=currentColor">
 
 </div>
-<br>
-  <br>
-  
+ <br>
+    #
+ <br>
+ 
+</div>
+ ![Snake animation](https://github.com/jeferson-labout/jeferson-labout/blob/output/github-contribution-grid-snake.svg)
+
   <br>
   
   <div> 
