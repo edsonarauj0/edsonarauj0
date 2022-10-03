@@ -1,7 +1,7 @@
 ### Hi! I'm Edson Araújo 👋
 
-- 🔭 I'm looking for Back-end
-- 🌱 I’m currently learning Java, JavaScript, ReactJS and more
+- 🔭 I'm a computer engineer
+- 🌱 I’m currently learning Java, JavaScript, Angular and more
 <br>
  <div align="center">
   <a href="https://github.com/edson-araujo">
@@ -20,7 +20,7 @@
   <img align="center" alt="edosn-Js" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="edson-React" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="edson-HTML" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="edson-CSS" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="edson-CSS" height="50 width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=112&color=currentColor">
   <img align="center" alt="edson-Python" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="edson-node" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/00f02ef57fb7601fd1ddcc2fe6fe670fef3ae3e4/icons/nodejs/nodejs-original.svg">
 </div>
