@@ -42,4 +42,5 @@
  
 </div>
 
- <iframe src="https://giphy.com/embed/Vbtc9VG51NtzT1Qnv1" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Friends-friends-tv-episode-219-Vbtc9VG51NtzT1Qnv1">via GIPHY</a></p>
+ <iframe src="https://giphy.com/embed/Vbtc9VG51NtzT1Qnv1" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a >via GIPHY</a></p>
+ <img href="https://giphy.com/gifs/Friends-friends-tv-episode-219-Vbtc9VG51NtzT1Qnv1"/>
