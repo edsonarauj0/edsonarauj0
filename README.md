@@ -18,7 +18,7 @@
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Jeferson-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="edosn-Js" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="edosn-Js" height="50 width="40" src="https://user-images.githubusercontent.com/79815326/193495356-c86927b8-3db1-45a5-b98a-0e59662ef61e.png">
   <img align="center" alt="edson-css" height="50 width="40" src="https://icongr.am/devicon/css3-original.svg?size=112&color=currentColor">
   <img align="center" alt="edson-HTML" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="edson-React" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
