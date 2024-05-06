@@ -1,44 +1,51 @@
-### Hi! I'm Edson Araújo 👋
-
-- 🔭 I'm a computer engineer
-- 🌱 I’m currently learning Java, JavaScript, Angular and more
+<div style="display: block">
+<img height="100em"align="left" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif">
+</div>
 <br>
- <div align="center">
-  <a href="https://github.com/edson-araujo">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=edson-araujo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img align="center" height="150em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-araujo&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
-  ##
+ #      Hi there, I'm Edson Araújo 
+
+<br>
+
+## About Me 🚀
+I'm a passionate Software Engineer, carrying 3 years of professional experience in the tech industry, specialized in scalable and maintainable software solutions.  
+
+I believe in the power of open-source communities and love contributing to them.
+
+💡 I enjoy exploring new tech stack and using them to build cool things.
+🎓 I am studying Computer Engineering at Descomplica University
+🌱 I'm on track for learning more about Systems Design, Software Architecture, and AI.
+✍️ When I'm not coding, you can find me [writing](https://dev.to/eu_edsonaraujo) or crafting side projects.
+
+<br>
+
+## 🛠️ Technologies & Tools
+
+### Front-End
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![NextJS](https://img.shields.io/badge/-NextJS-000?&logo=Next.js)
+![Sass](https://img.shields.io/badge/-Sass-000?&logo=sass)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-000?&logo=tailwind-css)
+
+### Back-End
+![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=spring)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+
+### DevOps
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+
+### Databases
+![Postgres](https://img.shields.io/badge/PostgreSQL-000?logo=postgresql)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Mariadb](https://img.shields.io/badge/-Mariadb-000?&logo=mariadb)
+
+<br>
  
+## 📫 How to reach me
 
-  
-  <br>
-<img height="200em"align="right" alt="Rafa-yoda" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif">
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="edosn-Js" height="50 width="40" src="https://user-images.githubusercontent.com/79815326/193495356-c86927b8-3db1-45a5-b98a-0e59662ef61e.png">
-   <img align="center" alt="edosn-Js" height="50" width="50" src="https://user-images.githubusercontent.com/79815326/193495548-0d3a4877-afe7-449e-84ae-466145a6e437.png">
-  <img align="center" alt="edson-css" height="50 width="40" src="https://icongr.am/devicon/css3-original.svg?size=112&color=currentColor">
-  <img align="center" alt="edson-HTML" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="edson-React" height="50 width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="edson-CSS" height="50 width="40" src="https://icongr.am/devicon/angularjs-original.svg?size=112&color=currentColor">
-  <img align="center" alt="edson-java" height="50 width="40" src="https://icongr.am/devicon/java-original.svg?size=112&color=currentColor">
-
-</div>
- <br>
-  
-  <div> 
-
-  <a href="https://www.instagram.com/dev.edsonaraujo/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:edsonaraujo.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/edson-ara%C3%BAjo-863382155/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  <br>
-  
- <br>
-    #
- <br>
- 
-</div>
-
+You can reach me on [LinkedIn](https://www.linkedin.com/in/edson-alves-araujo/) or drop me an email at edsonaraujo.dev@gmail.com. I'll try my best to respond as soon as possible!
