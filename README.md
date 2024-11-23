@@ -3,7 +3,7 @@
  
 </div>
 
-# Hi there, I'm **Edson Araújo**! 👋  <img height="100" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" alt="Coding GIF">
+# Hi there, I'm **Edson Araújo**! 👋 
 
 Welcome to my GitHub profile! I’m a **Software Engineer** with a passion for crafting scalable, maintainable, and impactful software solutions. With **3+ years of professional experience** in the tech industry, I strive to push boundaries and contribute to the world of open-source technology.
 
@@ -73,4 +73,4 @@ I’d love to connect! You can find me here:
 - 📧 **Email**: [edsonaraujo.dev@gmail.com](mailto:edsonaraujo.dev@gmail.com)
 - **Website**: [www.edsonaraujo.tech](https://www.edsonaraujo.tech/pt)
 
-Let’s build something amazing together! 🌟  <img height="100" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXExbHRuaGJrZmRiZmVpcnM5czdlYWZ0ZmkyYWkwemo3cXd2aGhsayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dxn6fRlTIShoeBr69N/giphy.gif">
+Let’s build something amazing together! 🌟
