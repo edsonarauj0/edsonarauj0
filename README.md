@@ -4,6 +4,11 @@
 </div>
 
 # Hi there, I'm **Edson Araújo**! 👋 
+⚠️ **IMPORTANT NOTICE**  
+I **lost access** to my previous GitHub profile: [**https://github.com/edson-araujo**](https://github.com/edson-araujo)  
+This is my new and official GitHub account: [**https://github.com/edsonarauj0**](https://github.com/edsonarauj0)  
+⭐ Feel free to follow, star my new repositories, and stay connected!
+
 
 Welcome to my GitHub profile! I’m a **Software Engineer** with a passion for crafting scalable, maintainable, and impactful software solutions. With **3+ years of professional experience** in the tech industry, I strive to push boundaries and contribute to the world of open-source technology.
 
