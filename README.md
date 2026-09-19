@@ -1,11 +1,8 @@
 <div align="left">
- 
- 
 </div>
 
 # Hi there, I'm **Edson Araújo**! 👋 
 ⭐ Feel free to follow, star my new repositories, and stay connected!
-
 
 Welcome to my GitHub profile! I’m a **Software Engineer** with a passion for crafting scalable, maintainable, and impactful software solutions. With **3+ years of professional experience** in the tech industry, I strive to push boundaries and contribute to the world of open-source technology.
 
@@ -40,9 +37,14 @@ Welcome to my GitHub profile! I’m a **Software Engineer** with a passion for c
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </div>
 
-### **DevOps**
+### **Cloud & DevOps**
 <div align="left">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/-Amazon%20S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="Amazon S3" />
+  <img src="https://img.shields.io/badge/-Amazon%20EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white" alt="Amazon EC2" />
+  <img src="https://img.shields.io/badge/-AWS%20Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white" alt="AWS Lambda" />
+  <img src="https://img.shields.io/badge/-Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" alt="Amazon RDS" />
 </div>
 
 ### **Databases**
@@ -52,19 +54,24 @@ Welcome to my GitHub profile! I’m a **Software Engineer** with a passion for c
   <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
 </div>
 
-
 ---
-| <a href="https://github.com/edsonarauj0"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edsonarauj0&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Edson's GitHub stats" /></a> | <a href="https://github.com/edsonarauj0"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-araujo&layout=compact&theme=tokyonight&hide_border=true" /></a> |
-| ------------- | ------------- |
+### 📊 GitHub Stats
 
-### 🏆 Top Repositories 
+<div align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=edsonarauj0&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Edson's GitHub stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=edsonarauj0&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 
-<a href="https://github.com/edsonarauj0/website-edsonaraujo">
-  <img width="420" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edsonarauj0&repo=website-edsonaraujo&theme=tokyonight" />
-</a>
-<a href="https://github.com/edsonarauj0/systemManagement-frontend">
-  <img width="420" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edsonarauj0&repo=systemManagement-frontend&theme=tokyonight" />
-</a>
+### 🏆 Top Repositories
+
+<div align="center">
+  <a href="https://github.com/edsonarauj0/kofre" target="_blank">
+    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=edsonarauj0&repo=kofre&theme=tokyonight" alt="kofre" />
+  </a>
+  <a href="https://github.com/edsonarauj0/edgym" target="_blank">
+    <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=edsonarauj0&repo=edgym&theme=tokyonight" alt="edgym" />
+  </a>
+</div>
 
 ---
 
@@ -73,6 +80,6 @@ Welcome to my GitHub profile! I’m a **Software Engineer** with a passion for c
 I’d love to connect! You can find me here:
 - 💼 [LinkedIn](https://www.linkedin.com/in/edson-alves-araujo/)
 - 📧 **Email**: [edsonaraujo.dev@gmail.com](mailto:edsonaraujo.dev@gmail.com)
-- **Website**: [www.edsonaraujo.tech](https://www.edsonaraujo.tech/pt)
+- 🌐 **Website**: [www.edsonaraujo.tech](https://www.edsonaraujo.tech/pt)
 
 Let’s build something amazing together! 🌟
