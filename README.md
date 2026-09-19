@@ -80,6 +80,6 @@ Welcome to my GitHub profile! I’m a **Software Engineer** with a passion for c
 I’d love to connect! You can find me here:
 - 💼 [LinkedIn](https://www.linkedin.com/in/edson-alves-araujo/)
 - 📧 **Email**: [edsonaraujo.dev@gmail.com](mailto:edsonaraujo.dev@gmail.com)
-- 🌐 **Website**: [www.edsonaraujo.tech](https://www.edsonaraujo.tech/pt)
+- 🌐 **Website**: [edson-website.vercel.app](https://edson-website.vercel.app/)
 
 Let’s build something amazing together! 🌟
