@@ -2,21 +2,21 @@
 </div>
 
 # Hi there, I'm **Edson Araújo**! 👋 
-⭐ Feel free to follow, star my new repositories, and stay connected!
+⭐ Feel free to connect, follow along, and star repositories you find interesting!
 
-Welcome to my GitHub profile! I’m a **Software Engineer** with a passion for crafting scalable, maintainable, and impactful software solutions. With **3+ years of professional experience** in the tech industry, I strive to push boundaries and contribute to the world of open-source technology.
+Welcome to my GitHub profile! I’m a **Software Engineer** passionate about building scalable, maintainable, and impactful software solutions. With **3+ years of professional experience**, I focus on engineering robust systems and contributing to open source.
 
 <img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 ## 🚀 **About Me**
 
-- 💻 **Professional Focus**: Passionate about building robust systems and elegant solutions.
-- 🎓 **Education**: Currently studying **Software Engineering** at *Uniamerica Descomplica University*.
-- 🌱 **Current Learning Goals**: Deepening my knowledge in **Systems Design**, and **Software Architecture**.
-- ✍️ **Hobbies**: Writing technical blogs on [DEV.to](https://dev.to/eu_edsonaraujo) and working on exciting side projects.
-- 💡 **Belief**: I’m a lifelong learner who enjoys exploring new tech stacks and bringing creative ideas to life.
+- 💻 **Focus**: Designing reliable distributed backend architectures and intuitive web interfaces.
+- 🎓 **Education**: Pursuing a B.S. in **Software Engineering** at *UniAmérica Descomplica*.
+- 🌱 **Current Learning Goals**: Advancing expertise in **System Design** and **Enterprise Software Architecture**.
+- ✍️ **Writing**: Sharing insights through technical articles on [DEV.to](https://dev.to/eu_edsonaraujo).
+- 💡 **Mindset**: Lifelong learner driven by curiosity, exploring modern tech stacks, and turning ideas into production-ready software.
+<br>
 
----
 ## 🛠️ **Tech Stack**
 
 ### **Front-End**
@@ -53,8 +53,8 @@ Welcome to my GitHub profile! I’m a **Software Engineer** with a passion for c
   <img src="https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
   <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
 </div>
+<br>
 
----
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -72,14 +72,13 @@ Welcome to my GitHub profile! I’m a **Software Engineer** with a passion for c
     <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=edsonarauj0&repo=edgym&theme=tokyonight" alt="edgym" />
   </a>
 </div>
-
----
+<br>
 
 ## 📫 **Get in Touch**
 
-I’d love to connect! You can find me here:
+I’d love to connect! You can reach me via:
 - 💼 [LinkedIn](https://www.linkedin.com/in/edson-alves-araujo/)
 - 📧 **Email**: [edsonaraujo.dev@gmail.com](mailto:edsonaraujo.dev@gmail.com)
-- 🌐 **Website**: [edson-website.vercel.app](https://edson-website.vercel.app/)
+- 🌐 **Portfolio**: [edson-website.vercel.app](https://edson-website.vercel.app/)
 
 Let’s build something amazing together! 🌟
