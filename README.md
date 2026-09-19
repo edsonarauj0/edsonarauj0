@@ -4,15 +4,12 @@
 </div>
 
 # Hi there, I'm **Edson Araújo**! 👋 
-⚠️ **IMPORTANT NOTICE**  
-I **lost access** to my previous GitHub profile: [**https://github.com/edson-araujo**](https://github.com/edson-araujo)  
-This is my new and official GitHub account: [**https://github.com/edsonarauj0**](https://github.com/edsonarauj0)  
 ⭐ Feel free to follow, star my new repositories, and stay connected!
 
 
 Welcome to my GitHub profile! I’m a **Software Engineer** with a passion for crafting scalable, maintainable, and impactful software solutions. With **3+ years of professional experience** in the tech industry, I strive to push boundaries and contribute to the world of open-source technology.
 
----
+<img width="100%" src="https://user-images.githubusercontent.com/8989346/136876224-bac0a91f-63a8-45ea-b5fc-6618bddf2335.gif" />
 
 ## 🚀 **About Me**
 
@@ -57,16 +54,16 @@ Welcome to my GitHub profile! I’m a **Software Engineer** with a passion for c
 
 
 ---
-| <a href="https://github.com/edson-araujo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edson-araujo&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Edson's GitHub stats" /></a> | <a href="https://github.com/edson-araujo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-araujo&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/edsonarauj0"><img align="center" src="https://github-readme-stats.vercel.app/api?username=edsonarauj0&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Edson's GitHub stats" /></a> | <a href="https://github.com/edsonarauj0"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edson-araujo&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### 🏆 Top Repositories 
 
-<a href="https://github.com/edson-araujo/website-edsonaraujo">
-  <img width="420" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edson-araujo&repo=website-edsonaraujo&theme=tokyonight" />
+<a href="https://github.com/edsonarauj0/website-edsonaraujo">
+  <img width="420" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edsonarauj0&repo=website-edsonaraujo&theme=tokyonight" />
 </a>
-<a href="https://github.com/edson-araujo/systemManagement-frontend">
-  <img width="420" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edson-araujo&repo=systemManagement-frontend&theme=tokyonight" />
+<a href="https://github.com/edsonarauj0/systemManagement-frontend">
+  <img width="420" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=edsonarauj0&repo=systemManagement-frontend&theme=tokyonight" />
 </a>
 
 ---
